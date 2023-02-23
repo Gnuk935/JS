@@ -1,0 +1,11 @@
+[
+        {
+            "nome": "Victor",
+                "Nac": "05/09/2005",
+            "Vivo": true,
+            "obj":{
+            "obj1": "primeiro"
+            },
+            "array": ["v1","v2","v3"]
+    }
+]
