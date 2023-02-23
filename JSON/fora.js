@@ -1,5 +1,5 @@
 //falei onde esta
-var arquivo = "file:///D:/vm/sistema/area_de_trabalho/prog/estudos/JS/JSON/json.json"
+var arquivo = "https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json"
 
 //Requisição 
 var request = new XMLHttpRequest();
@@ -8,7 +8,7 @@ var request = new XMLHttpRequest();
 request.open('GET', arquivo);
 
 //Falei que o tipo é JSON
-request.responseType = 'json';
+request.responseType = 'text';
 
 //Mandei
 request.send();

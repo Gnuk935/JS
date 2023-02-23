@@ -24,6 +24,6 @@ const obj =[
     const converteJSON = JSON.stringify(obj)
 
 //Converter JSON para obj
-    const converteOBJ = JSON.parse(converteJSON)
+    const converteOBJ = JSON.parse("json.json")
     console.log(converteOBJ)
     
