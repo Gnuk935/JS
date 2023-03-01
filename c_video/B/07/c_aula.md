@@ -20,4 +20,17 @@
    ```
    () => ** => * => * / % => + -
    ```
-   
+## Atribuição:
+ * [=] -> recebe
+ * [+=] -> adição
+ * [-=] -> subtração
+ * [*=] -> multiplicação
+ * [/=] -> divisão
+ * [%=] -> resto
+ * [**=] -> exponencial
+ * [<<=] -> bit-a-bit por deslocamento á esquerda
+ * [>>=] -> bit-a-bit por deslocamento á direita
+ * [>>>=]bit-a-bit deslocamento á direita não assinado
+ * [&=] AND bit-a-bit
+ * [^=]tribuição XOR bit-a-bit
+ * [|=] OR bit-a-bit
