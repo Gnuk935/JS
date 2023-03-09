@@ -1,4 +1,4 @@
-## JS - B - 09 - Introdução ao DOM
+## JS - C - 09 - Introdução ao DOM
 
 ### Extensões citadas na aula:
 * Live server 
