@@ -1,0 +1,1 @@
+## Exercícios JavaScript (Parte 6) - Curso JavaScript
